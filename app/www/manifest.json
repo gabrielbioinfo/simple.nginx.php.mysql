@@ -1,0 +1,8 @@
+{
+    "short_name": "Simple Nginx PHP Mysql",
+    "name": "Moodle",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "content_security_policy": "script-src 'self' 'unsafe-inline'; object-src 'self'"
+  }
